@@ -9,6 +9,9 @@ __pycache__/
 # ignore songs
 songs
 
+TES.py
+test.py
+
 # Distribution / packaging
 .Python
 build/
